@@ -1,0 +1,17 @@
+Nova Teknoloji, 2021 yılında İstanbul’da kurulmuş bir yazılım şirketidir.
+
+Şirketin sunduğu hizmetler; web uygulamaları, mobil uygulamalar ve yapay zekâ çözümleridir.
+
+Nova Teknoloji’nin çalışma saatleri hafta içi 09.00 ile 18.00 arasındadır. Şirket hafta sonları hizmet vermemektedir.
+
+Müşteri destek ekibine destek@novateknoloji.com e-posta adresinden ulaşılabilir.
+
+Satın alınan ürünler, satın alma tarihinden itibaren 14 gün içinde iade edilebilir. İade edilecek ürünün kullanılmamış ve hasar görmemiş olması gerekir.
+
+Şirketin temel hedefi, küçük ve orta ölçekli işletmelerin dijital dönüşüm süreçlerini kolaylaştırmaktır.
+
+Müşteri bilgileri izin alınmadan üçüncü kişilerle paylaşılmaz.
+
+Nova Asistan, Nova Teknoloji hakkındaki soruları yanıtlayan, tamamen yerel ve çevrimdışı çalışan bir soru-cevap uygulamasıdır.
+
+Nova Asistan cevaplarını yalnızca documents.txt dosyasında bulunan bilgilere göre oluşturur ve genel internet bilgisini kullanmaz.

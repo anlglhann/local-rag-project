@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Yerel veri ve model önbellekleri
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/foundry/
+data/model_cache/
+data/logs/
+.cache/
+models/
+
+# Streamlit / geçici dosyalar
+.streamlit/secrets.toml
+*.tmp
+*.log
+
+# Editör ve işletim sistemi
+.DS_Store
+.idea/
+.vscode/
