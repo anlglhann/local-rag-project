@@ -100,4 +100,4 @@ python -m py_compile app.py app_ui.py database.py ingest.py settings.py
 - Büyük dosyalar için tüm embedding’leri bellekte karşılaştıran bu sade SQLite yaklaşımı ölçeklenmez.
 - Proje “sıfır halüsinasyon” garantisi vermez; bağlam dışı çağrıları azaltmak için retrieval eşiği ve sıkı prompt kullanır.
 
-Başlıca referanslar: [Microsoft Foundry Local Python SDK](https://github.com/microsoft/Foundry-Local/tree/main/sdk/python), [Microsoft Foundry Local RAG örneği](https://github.com/berktopal/microsoft-foundry-local-rag).
+Başlıca referanslar: [Microsoft Foundry Local Python SDK](https://github.com/microsoft/Foundry-Local/tree/main/sdk/python)
